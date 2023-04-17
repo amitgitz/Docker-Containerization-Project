@@ -684,4 +684,5 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDKZcjIAmawNSBFgQiBSYahZH1oYa6MBG/NREXMulPF
 
 Ubuntu 18.04.6 LTS ubuntu-bionic ttyS0
 
-ubuntu-bionic login: 
+ubuntu-bionic login: [ 7097.819456] watchdog: BUG: soft lockup - CPU#1 stuck for 93s! [containerd-shim:30098]
+[ 7097.820284] watchdog: BUG: soft lockup - CPU#0 stuck for 93s! [mysqld:29814]
