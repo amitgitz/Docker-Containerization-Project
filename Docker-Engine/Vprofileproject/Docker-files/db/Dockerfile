@@ -1,4 +1,6 @@
 FROM mysql:5.7.25
+LABEL "Project"="Vprofile"
+LABEL "Author"="Amit Choudhary"
 ENV MYSQL_ROOT_PASSWORD="vprodbpass"
 ENV MYSQL_DATABASE="accounts"
 
